@@ -1,0 +1,357 @@
+body {
+  font-family: Arial, Arial, sans-serif;
+  background-color: #FFFFFF;
+  color: #000000;
+  font-size: 12px;
+  margin: 0px
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Arial, Arial, sans-serif
+}
+
+
+
+
+a:active, a:link, a:visited  {
+  font-family: Arial, Arial, sans-serif;
+  text-decoration: none;
+  color: #676598;
+  font-size: 12px;
+}
+
+a:hover, a:visited:hover {
+  font-family: Arial, Arial, sans-serif;
+  text-decoration: none;
+  color: #96660c;
+  font-size: 12px;	
+}
+
+b {
+  font-family: Arial, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 12px
+}
+
+u {
+  font-family: Arial, Arial, sans-serif;
+  text-decoration: underline;
+  font-size: 12px
+}
+
+i {
+  font-family: Arial, Arial, sans-serif;
+  font-style: italic;
+  font-size: 12px
+}
+
+ol {
+  font-family: Arial, Arial, sans-serif;
+  font-size: 12px
+}
+
+ul {
+  font-family: Arial, Arial, sans-serif;
+  font-size: 12px
+}
+
+li {
+  font-family: Arial, Arial, sans-serif;
+  font-size: 12px
+}
+
+p {
+  font-family: Arial, Arial, sans-serif;
+  font-size: 12px
+}
+
+table {
+  font-family: Arial, Arial, sans-serif;
+  font-size: 12px
+}
+
+td {
+  font-family: Arial, Arial, sans-serif;
+  font-size: 12px
+}
+
+th {
+  font-family: Geneva, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-size: 12px
+}
+
+tr {
+  font-family: Arial, Arial, sans-serif;
+  font-size: 12px
+}
+
+hr {
+  border: 1px solid #CCCCCC
+}
+
+blockquote {
+  font-family: Arial, Arial, sans-serif;
+  font-size: 12px
+}
+
+form {
+  padding: 0px;
+  font-family: Arial, Arial, sans-serif;
+  font-size: 12px
+}
+
+/* Begin Classes */
+
+.container {
+  width: 700px;
+  border: 0px;
+  margin: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 10px;
+  font-family: Arial, Arial, sans-serif;
+  font-size: 12px
+}
+
+.logo {
+  border: 0px;
+  padding: 0;
+  text-decoration: none;
+  margin-bottom: 5px;
+}
+
+.logo a:link, .logo a:visited, .logo a:hover, .logo a:active {
+  color: #FFF;
+  text-decoration: none;
+  border-width: 0;
+  border-style: none;
+}
+
+.mail {
+  height: 15px;
+}
+
+.header {
+  height: 150px;
+  border: 0px;
+  margin: 0px;
+  padding: 0px
+}
+
+.space {
+  height: 36px;
+  border: 0px;
+  padding: 0px
+}
+
+.content {
+  font-family: Arial, Arial, sans-serif;
+  font-size: 12px
+}
+
+.main {
+  height: 275px;
+  padding-left: 10px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 30px;
+  margin-left: 263px;
+  border-left: 1px solid #999999;
+  font-family: Arial, Arial, sans-serif;
+  font-size: 12px;
+}
+
+.navigation {
+  float: left;
+  width: 253px;
+  margin: 0;
+  padding: 0px;
+  font-family: Arial, Arial, sans-serif;
+  font-size: 12px;
+}
+
+.abstract {
+  color: #666666;
+  padding-top: 30px;
+  float: left;
+  width: 253px;
+  height: 275px;
+  margin: 0;
+  font-family: Arial, Arial, sans-serif;
+  font-size: 12px;
+}
+
+.footer {
+  border: 0px;
+  background-color: #E7E5E2;
+  padding-bottom: 15px;
+  padding-right: 5px;
+  padding-top: 15px;
+  padding-left: 5px;
+  font-family: Arial, Arial, sans-serif;
+  font-size: 12px
+}
+
+.tagline {
+  text-align: center;
+  padding-top: 10px;
+  font-family: Arial, Arial, sans-serif;
+  font-size: 12px
+}
+
+.center {
+  margin: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 766px;
+}
+
+.bar {
+  background-color: #B5D7E6;
+  font-size: medium;
+  vertical-align: top;
+}
+
+.thinTable {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #92B0DD;
+}
+
+.rowHeader {
+  background-color: #EBF3FB;
+  height: 20px;
+  width: 300px;
+}
+
+.lefton div {
+  margin-left: 13px;
+}
+
+.leftoff div {
+  margin-left: 13px;
+}
+
+.trigger {
+  cursor: pointer;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.expanded {
+  background: #fff;
+  cursor: pointer;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.show {
+  position: static;
+  display: table;
+}
+
+.hide {
+  position: absolute;
+  left: -999em;
+  height: 1px;
+  width: 100px;
+  overflow: hidden;
+}
+
+p.p1 {
+  margin: 0.0px 0.0px 10.0px 36.0px;
+  text-indent: -36.0px;
+  line-height: 17.0px;
+  font: 11.0px Arial
+}
+
+p.p2 {
+  margin: 0.0px 0.0px 10.0px 0.0px;
+  line-height: 17.0px;
+  font: 11.0px Arial;
+  min-height: 12.0px
+}
+
+p.p3 {
+  margin: 0.0px 0.0px 10.0px 0.0px;
+  line-height: 17.0px;
+  font: 11.0px Times New Roman;
+  min-height: 12.0px
+}
+
+p.p4 {
+  margin: 0.0px 0.0px 0.0px 0.0px;
+  line-height: 12.0px;
+  font: 10.0px Arial
+}
+
+p.p5 {
+  margin: 0.0px 0.0px 0.0px 0.0px;
+  line-height: 12.0px;
+  font: 11.0px Times New Roman;
+  min-height: 12.0px
+}
+
+span.s1 {
+  font: 11.0px Times New Roman
+}
+
+span.Apple-tab-span {
+  white-space: pre
+}
+
+.member {
+  padding: 3px;
+}
+
+/*- Menu Tabs --------------------------- */
+
+#tabs {
+  float:left;
+  width:100%;
+  background:#E7E5E2;
+  font-size:93%;
+  line-height:normal;
+  border-bottom:1px solid #54545C;
+}
+#tabs ul {
+  margin:0;
+  padding:10px 10px 0 50px;
+  list-style:none;
+}
+#tabs li {
+  display:inline;
+  margin:0;
+  padding:0;
+}
+#tabs a {
+  float:left;
+  background:url("images/tableft.gif") no-repeat left top;
+  margin:0;
+  padding:0 0 0 4px;
+  text-decoration:none;
+}
+#tabs a span {
+  float:left;
+  display:block;
+  background:url("images/tabright.gif") no-repeat right top;
+  padding:5px 15px 4px 6px;
+  color: #666;
+}
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+#tabs a span {float:none;}
+/* End IE5-Mac hack */
+#tabs a:hover span {
+  color:#FFF;
+  background-position:100% -42px;
+}
+#tabs a:hover {
+  background-position:0% -42px;
+}
+#tabs a:hover span {
+  background-position:100% -42px;
+}
