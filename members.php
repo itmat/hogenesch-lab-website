@@ -12,7 +12,15 @@
       <br/>Associate Professor of <a href="http://www.med.upenn.edu/pharm/" > Pharmacology</a>
       <br/>Associate Director of the <a href="http://www.genomics.upenn.edu/"> Penn Genome Frontiers Institute</a>
       <br/><img class='mail' src="images/jhogenesch.jpg" />		<br />
-      <p><embed src="http://embed.grandcentral.com/webcall/5b7068701b02624f403cd46725415b7c" width="437" height="91" wmode="transparent"></embed>
+      <p>
+<object width="230" height="85"><param name="movie" 
+value="https://clients4.google.com/voice/embed/webCallButton"></param><param 
+name="wmode" value="transparent"></param><param name="FlashVars" 
+value="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></param><embed 
+src="https://clients4.google.com/voice/embed/webCallButton" 
+type="application/x-shockwave-flash"wmode="transparent" width="230" 
+height="85" 
+FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object>
       </p>
     </div>
     <h3> Current Laboratory Members </h3>
