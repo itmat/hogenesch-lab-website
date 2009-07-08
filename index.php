@@ -11,6 +11,12 @@ ptabs($curr);
     src="images/hl_home.jpg" />
   </div>
   <div class="main"> 
-    Our research program covers two areas of research, the biology of circadian clocks in mammals, and the genome wide application of functional genomics tools.  Key questions being approached in circadian research include the composition and mechanisms of the core oscillator, as well as the methods by which the clock dictates rhythms in physiology and behavior.  The systems biology paradigm of perturb, observe, model, and test is being used to elucidate the network properties of the circadian clock. Functional genomics methods are being developed and utilized in the lab to inform the circadian system, but can also be more broadly applied to other areas of mammalian cell biology. By conducting research in two complementary areas, we hope to contribute to a better understanding of circadian biology, as well as contribute to other areas of cell signaling research.
+Our laboratory studies the mammalian circadian clock using genomic and 
+computational tools.  We use these tools to discover new clock genes, 
+learn how the clock keeps time, and how it coordinates rhythms in 
+physiology and behavior.  This clock research drives development of 
+genomic and computational methods that we apply to other areas of 
+biology.  Finally, we recognize biological complexity and conduct this 
+research at the network, rather than single gene, level.    
   </div>
 <? pfoot(); ?>
