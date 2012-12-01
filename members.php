@@ -33,12 +33,12 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
     </div>
     <h3> Current Laboratory Members </h3>
     <div class="member">
-      <strong>Julie Baggs</strong>
+      <strong>Anand Venkataraman</strong>
       <br/>Postdoctoral Researcher
       <br/><img class='mail' src="images/jbaggs.jpg" />
     </div>
     <div class="member">
-      <strong>Jason DeBruyne</strong>
+      <strong>Yool Lee</strong>
       <br/>Senior Research Investigator
       <br/><img class='mail' src="images/jdebruyne.jpg" />
     </div>
