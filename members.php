@@ -39,34 +39,34 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
     </div>
     <div class="member">
       <strong>Yool Lee</strong>
-      <br/>Senior Research Investigator
+      <br/>Postdoctoral Researcher
       <br/><img class='mail' src="images/jdebruyne.jpg" />
     </div>
     <div class="member">
-      <strong>Jeanne Geskes</strong>
-      <br/>Research Specialist
-      <br/><img class='mail' src="images/jgeskes.jpg" />
-    </div>
-    <div class="member">
-      <strong>Michael Hughes</strong>
-      <br/>Postdoctoral Researcher
-      <br/><img class='mail' src="images/mhughes.jpg" />
-    </div>
-    <div class="member">
       <strong>Nick Lahens</strong>
-      <br/>Graduate Student, GCB Program
+      <br/>Graduate Student, Genomics and Computational Biology
       <br/><img class='mail' src="images/nlahens.jpg" />
     </div>
     <div class="member">
-      <strong>Boning Li</strong>
-      <br/>Research Associate
+      <strong>Heather Ballance</strong>
+      <br/>Graduate Student, Neuroscience
       <br/><img class='mail' src="images/bli.png" />
     </div>
     <div class="member">
-      <strong>Anthony Olarerin</strong>
-      <br/>Graduate Student, GCB Program
+      <strong>Anthony Olarerin-George</strong>
+      <br/>Graduate Student, Genomics and Computational Biology
       <br/><img class='mail' src="images/aolarerin.jpg" />
     </div>
+    <div class="member">
+      <strong>Lauren Francey</strong>
+      <br/>Graduate Student, Pharmacology
+      <br/><img class='mail' src="images/aolarerin.jpg" />
+    </div>    
+    <div class="member">
+      <strong>Ray Zhang</strong>
+      <br/>Graduate Student, Genomics and Computational Biology
+      <br/><img class='mail' src="images/aolarerin.jpg" />
+    </div>    
   </div>
   <div id="alumni">
     <h3> Alumni and Mentored Scientists </h3>
@@ -76,6 +76,11 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
       <br/><img class='mail' src="images/pazablanc.jpg" />
     </div>
     <div class="member">
+      Julie Baggs
+      <br/>Senior Research Investigator, <a href='http://www.pioneer.com/web/site/portal/' >Morehouse School of Medicine</a>
+      <br/><img class='mail' src="images/gzastrow.jpg" />
+    </div> 
+    <div class="member">
       Sumit Chanda
       <br/>Associate Professor, the <a href ='http://www.burnham.org/'>Burnham Institute</a>
       <br/><img class='mail' src="images/schanda.jpg" />
@@ -84,6 +89,11 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
       Mike Conkright
       <br/>Assistant Professor, the <a href ='http://www.scripps.edu/e_index.html'>Scripps Research Institute</a>
       <br/><img class='mail' src="images/mconkright.jpg" />
+    </div>
+    <div class="member">
+      Jason DeBruyne
+      <br/>Assistant Professor, <a href='http://www.pioneer.com/web/site/portal/' >Morehouse School of Medicine</a>
+      <br/><img class='mail' src="images/gzastrow.jpg" />
     </div>
     <div class="member">
       Josephine Harada
@@ -100,6 +110,11 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
       <br/>Director of Operations, the Phenomix Corporation
       <br/><img class='mail' src="images/ines.jpg" />
     </div>
+    <div class="member">
+      Michael Hughes
+      <br/>Assistant Professor, <a href='http://www.pioneer.com/web/site/portal/' >University of Missouri</a>
+      <br/><img class='mail' src="images/gzastrow.jpg" />
+    </div>    
     <div class="member">
       Loren Miraglia
       <br/>Research Investigator, the <a href ='http://www.gnf.org/' >Genomics Institute of the Novartis Research Foundation</a>
@@ -149,7 +164,7 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
       Gina Zastrow
       <br/>Senior Research Associate, <a href='http://www.pioneer.com/web/site/portal/' >Pioneer Hybrid</a>
       <br/><img class='mail' src="images/gzastrow.jpg" />
-    </div>
+    </div> 
   </div>
 </div>
 </div>
