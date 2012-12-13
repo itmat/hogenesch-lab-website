@@ -66,6 +66,11 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
       <strong>Ray Zhang</strong>
       <br/>Graduate Student, Genomics and Computational Biology
       <br/><img class='mail' src="images/aolarerin.jpg" />
+    </div>
+    <div class="member">
+      <strong>Jacki Growe</strong>
+      <br/>Lab Technician
+      <br/><img class='mail' src="images/aolarerin.jpg" />
     </div>    
   </div>
   <div id="alumni">
