@@ -35,12 +35,12 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
     <div class="member">
       <strong>Anand Venkataraman</strong>
       <br/>Postdoctoral Researcher
-      <br/><img class='mail' src="images/jbaggs.jpg" />
+      <br/><img class='mail' src="images/anandven.jpg" />
     </div>
     <div class="member">
       <strong>Yool Lee</strong>
       <br/>Postdoctoral Researcher
-      <br/><img class='mail' src="images/jdebruyne.jpg" />
+      <br/><img class='mail' src="images/ylee.jpg" />
     </div>
     <div class="member">
       <strong>Nick Lahens</strong>
@@ -50,7 +50,7 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
     <div class="member">
       <strong>Heather Ballance</strong>
       <br/>Graduate Student, Neuroscience
-      <br/><img class='mail' src="images/bli.png" />
+      <br/><img class='mail' src="images/ballance.png" />
     </div>
     <div class="member">
       <strong>Anthony Olarerin-George</strong>
@@ -60,17 +60,17 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
     <div class="member">
       <strong>Lauren Francey</strong>
       <br/>Graduate Student, Pharmacology
-      <br/><img class='mail' src="images/aolarerin.jpg" />
+      <br/><img class='mail' src="images/franceyl.jpg" />
     </div>    
     <div class="member">
       <strong>Ray Zhang</strong>
       <br/>Graduate Student, Genomics and Computational Biology
-      <br/><img class='mail' src="images/aolarerin.jpg" />
+      <br/><img class='mail' src="images/rayzhang.jpg" />
     </div>
     <div class="member">
       <strong>Jacki Growe</strong>
       <br/>Lab Technician
-      <br/><img class='mail' src="images/aolarerin.jpg" />
+      <br/><img class='mail' src="images/jgrowe.jpg" />
     </div>    
   </div>
   <div id="alumni">
