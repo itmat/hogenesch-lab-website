@@ -40,7 +40,7 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
     <div class="member">
       <strong>Yool Lee</strong>
       <br/>Postdoctoral Researcher
-      <br/><img class='mail' src="images/ylee.jpg" />
+      <br/><img class='mail' src="images/yoollee.jpg" />
     </div>
     <div class="member">
       <strong>Nick Lahens</strong>
@@ -82,7 +82,7 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
     </div>
     <div class="member">
       Julie Baggs
-      <br/>Senior Research Investigator, <a href='http://www.pioneer.com/web/site/portal/' >Morehouse School of Medicine</a>
+      <br/>Senior Research Investigator, <a href='http://www.msm.edu/HomePage.aspx' >Morehouse School of Medicine</a>
       <br/><img class='mail' src="images/gzastrow.jpg" />
     </div> 
     <div class="member">
@@ -97,8 +97,8 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
     </div>
     <div class="member">
       Jason DeBruyne
-      <br/>Assistant Professor, <a href='http://www.pioneer.com/web/site/portal/' >Morehouse School of Medicine</a>
-      <br/><img class='mail' src="images/gzastrow.jpg" />
+      <br/>Assistant Professor, <a href='http://www.msm.edu/HomePage.aspx' >Morehouse School of Medicine</a>
+      <br/><img class='mail' src="images/jdebruyne_msm.jpg" />
     </div>
     <div class="member">
       Josephine Harada
