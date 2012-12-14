@@ -50,7 +50,7 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
     <div class="member">
       <strong>Heather Ballance</strong>
       <br/>Graduate Student, Neuroscience
-      <br/><img class='mail' src="images/ballance.png" />
+      <br/><img class='mail' src="images/ballance.jpg" />
     </div>
     <div class="member">
       <strong>Anthony Olarerin-George</strong>

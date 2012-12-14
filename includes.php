@@ -28,7 +28,6 @@ function ptabs($curr="home") {
     3 => array('name' => 'pubs', 'label' => "Publications", 'link' => "pubs.php"),
     4 => array('name' => 'resources', 'label' => "Resources", 'link' => "resources.php"),
     5 => array('name' => 'links', 'label' => "Links", 'link'=> "links.php"),
-    6 => array('name' => 'intranet', 'label' => "Intranet", 'link'=> "http://hogeneschlab.grouphub.com/clients"),
     );
   foreach(array_keys($tabs) as $i ) {
         print "\t\t<li>\n\t\t<a href=\"";
