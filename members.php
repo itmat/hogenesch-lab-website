@@ -117,7 +117,7 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
     </div>
     <div class="member">
       Michael Hughes
-      <br/>Assistant Professor, <a href='http://www.pioneer.com/web/site/portal/' >University of Missouri</a>
+      <br/>Assistant Professor, <a href='http://openwetware.org/wiki/HughesLab/' >University of Missouri</a>
       <br/><img class='mail' src="images/gzastrow.jpg" />
     </div>    
     <div class="member">
