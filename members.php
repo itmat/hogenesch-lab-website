@@ -118,7 +118,7 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
     <div class="member">
       Michael Hughes
       <br/>Assistant Professor, <a href='http://openwetware.org/wiki/HughesLab' >University of Missouri</a>
-      <br/><img class='mail' src="images/mhughes.jpg" />
+      <br/><img class='mail' src="images/mhughes2.jpg" />
     </div>    
     <div class="member">
       Loren Miraglia
