@@ -101,6 +101,11 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
       <br/><img class='mail' src="images/jdebruyne_msm.jpg" />
     </div>
     <div class="member">
+      Jeanne Geskes
+      <br/>HTS Project Manager, <a href='http://www.genomics.upenn.edu/facilities/research-facilities/high-throughput-sequencing' >University of Pennsylvania</a>
+      <br/><img class='mail' src="images/jgeskes.jpg" />
+    </div>    
+    <div class="member">
       Josephine Harada
       <br/>Senior Manager, Business Development, <a href ='http://www.pulmatrix.com/' > Pulmatrix Incorporated</a>
       <br/><img class='mail' src="images/jharada.jpg" />
