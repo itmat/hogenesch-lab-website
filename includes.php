@@ -27,7 +27,7 @@ function ptabs($curr="home") {
     2 => array('name' => 'research', 'label' => "Research Interests", 'link' => "research.php"),
     3 => array('name' => 'pubs', 'label' => "Publications", 'link' => "pubs.php"),
     4 => array('name' => 'resources', 'label' => "Resources", 'link' => "resources.php"),
-    5 => array('name' => 'links', 'label' => "Links", 'link'=> "links.php"),
+    //5 => array('name' => 'links', 'label' => "Links", 'link'=> "links.php"),
     );
   foreach(array_keys($tabs) as $i ) {
         print "\t\t<li>\n\t\t<a href=\"";
