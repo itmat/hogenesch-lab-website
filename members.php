@@ -43,6 +43,11 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
       <br/><img class='mail' src="images/yoollee.jpg" />
     </div>
     <div class="member">
+      <strong>Anthony Olarerin-George</strong>
+      <br/>Postdoctoral Researcher
+      <br/><img class='mail' src="images/aolarerin.jpg" />
+    </div>
+    <div class="member">
       <strong>Nick Lahens</strong>
       <br/>Graduate Student, Genomics and Computational Biology
       <br/><img class='mail' src="images/nlahens.jpg" />
@@ -51,11 +56,6 @@ FlashVars="id=a11986f986d3f21a7a4eedb07de987c2ffcd65e3&style=0"></embed></object
       <strong>Heather Ballance</strong>
       <br/>Graduate Student, Neuroscience
       <br/><img class='mail' src="images/ballance.jpg" />
-    </div>
-    <div class="member">
-      <strong>Anthony Olarerin-George</strong>
-      <br/>Graduate Student, Genomics and Computational Biology
-      <br/><img class='mail' src="images/aolarerin.jpg" />
     </div>
     <div class="member">
       <strong>Lauren Francey</strong>
